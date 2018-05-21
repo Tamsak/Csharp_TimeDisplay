@@ -1,0 +1,13 @@
+<html>
+<head>
+    <title>Time Display</title>
+</head>
+<body>
+    <p>The Current Time and Date</p>
+    @{
+        DateTime CurrentTime = DateTime.Now;
+        string display = CurrentTime.ToString("MM/dd/yyyy hh:mm tt");
+        <p>@display</p>
+    }
+</body>
+</html>

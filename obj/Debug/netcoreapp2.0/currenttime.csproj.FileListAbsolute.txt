@@ -1,0 +1,11 @@
+C:\Users\Nadia\DojoCsharp\currenttime\bin\Debug\netcoreapp2.0\currenttime.deps.json
+C:\Users\Nadia\DojoCsharp\currenttime\bin\Debug\netcoreapp2.0\currenttime.runtimeconfig.json
+C:\Users\Nadia\DojoCsharp\currenttime\bin\Debug\netcoreapp2.0\currenttime.runtimeconfig.dev.json
+C:\Users\Nadia\DojoCsharp\currenttime\bin\Debug\netcoreapp2.0\currenttime.dll
+C:\Users\Nadia\DojoCsharp\currenttime\bin\Debug\netcoreapp2.0\currenttime.pdb
+C:\Users\Nadia\DojoCsharp\currenttime\obj\Debug\netcoreapp2.0\currenttime.csprojAssemblyReference.cache
+C:\Users\Nadia\DojoCsharp\currenttime\obj\Debug\netcoreapp2.0\currenttime.csproj.CoreCompileInputs.cache
+C:\Users\Nadia\DojoCsharp\currenttime\obj\Debug\netcoreapp2.0\currenttime.AssemblyInfoInputs.cache
+C:\Users\Nadia\DojoCsharp\currenttime\obj\Debug\netcoreapp2.0\currenttime.AssemblyInfo.cs
+C:\Users\Nadia\DojoCsharp\currenttime\obj\Debug\netcoreapp2.0\currenttime.dll
+C:\Users\Nadia\DojoCsharp\currenttime\obj\Debug\netcoreapp2.0\currenttime.pdb
